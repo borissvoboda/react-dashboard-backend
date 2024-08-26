@@ -28,3 +28,12 @@ Compile your .ts files using "tsc" command.
 
 In development you can watch the changes in compiled .js files with
 node --watch dist/server.js // add your path and root file
+
+# 3. Express
+
+## 3.1. server.ts
+
+## 3.2. Routing in express
+
+https://expressjs.com/en/guide/routing.html
+Using express.Router as "mini-app" for a clear routes structure.
